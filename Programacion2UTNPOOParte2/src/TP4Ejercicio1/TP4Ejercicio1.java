@@ -7,6 +7,8 @@ public class TP4Ejercicio1 {
     
     public static void main(String args[]) {
         
+        
+        
         Empleado empleado1 = new Empleado("Cristian", "Backend");
         
         System.out.println(empleado1);
